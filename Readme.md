@@ -55,7 +55,7 @@ helloassos.com => mon compte => intégration/API
 
 Fichier de configuration.ini a rajouté au projet
 
-##[DB]
+[DB]
 
 host=X
 
