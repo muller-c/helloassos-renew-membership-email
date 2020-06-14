@@ -49,6 +49,8 @@ subprocess.check_call([sys.executable, "-m", "pip", "install", 'requests'])
 
 # Token helloassos
 
+helloassos.com => mon compte => intégration/API
+
 # Configuration db
 
 Fichier de configuration.ini a rajouté au projet
