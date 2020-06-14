@@ -47,5 +47,13 @@ import sys
 import subprocess
 subprocess.check_call([sys.executable, "-m", "pip", "install", 'requests'])
 
-#3 Token helloassos
+# Token helloassos
 
+# Configuration db
+
+Fichier de configuration.ini a rajouté au projet
+[DB]
+host=X
+user=X
+password=X
+database=X
