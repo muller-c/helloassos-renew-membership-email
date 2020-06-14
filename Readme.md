@@ -45,10 +45,6 @@ import subprocess
 
 subprocess.check_call([sys.executable, "-m", "pip", "install", 'mysql-connector-python'])
 
-import sys
-
-import subprocess
-
 subprocess.check_call([sys.executable, "-m", "pip", "install", 'requests'])
 
 # Token helloassos
