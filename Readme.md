@@ -1,8 +1,10 @@
-#0 Renouvellement Helloassos 
+# Renouvellement Helloassos 
 Utilisations des payements pour le renouvellement 
 ## Match nom, prenom , date de naissance 
 Afin de savoir quand a été le dernier paiement pour un membre 
-#1 Database 
+
+# Database 
+
 **Table of association** 
 
 CREATE TABLE `association` (
@@ -31,7 +33,7 @@ CREATE TABLE `email_sent` (
 ) ;
 
 
-#2 Librairie nécéssaire 
+# Librairie nécéssaire 
 
 mysql-connector-python and requests
 
