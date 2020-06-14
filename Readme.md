@@ -56,7 +56,11 @@ helloassos.com => mon compte => intégration/API
 Fichier de configuration.ini a rajouté au projet
 
 ##[DB]
+
 ##host=X
+
 ##user=X
+
 ##password=X
+
 ##database=X
