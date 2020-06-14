@@ -57,10 +57,10 @@ Fichier de configuration.ini a rajouté au projet
 
 ##[DB]
 
-##host=X
+host=X
 
-##user=X
+user=X
 
-##password=X
+password=X
 
-##database=X
+database=X
